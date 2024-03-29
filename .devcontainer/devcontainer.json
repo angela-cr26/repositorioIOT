@@ -52,7 +52,7 @@
                       "editor.wordHighlightBorder": "#a9b1d6",
                       "editor.selectionBackground": "#3d59a1aa",
                       // "editor.selectionHighlightBackground": "#eb0cd1fb",
-                      "editor.selectionHighlightBorder": "#e0af68",
+                      "editor.selectionHighlightBorder": "#e0af68"
                     },
 
                     // "editorRuler.foreground": "#0474bc",
@@ -70,7 +70,7 @@
                 "[typescript]": {
                   "editor.defaultFormatter": "dbaeumer.vscode-eslint"
                 },
-                "standard.engine": "ts-standard",
+                "standard.engine": "ts-standard"
             }
         }
     }
